@@ -1,7 +1,7 @@
 # Face Recognition using K Nearest Neighbours and PCA
 
 ## Introduction:
-In this report, I am presenting the results of face image classification using the k-nearest neighbours (KNN) algorithm with my own implementation in Python. The code for the experiment is provided in a Jupyter notebook. The experiment involves testing different k values ranging from 1 to 10 and calculating the average accuracy.
+Following are the results of face image classification using the k-nearest neighbours (KNN) algorithm with my own implementation in Python. The code for the experiment is provided in a Jupyter notebook. The experiment involves testing different k values ranging from 1 to 10 for calculating the average accuracy.
 
 ## Methodology:
 1. Data: The CMU Pose, Illumination, and Expression (PIE) database
