@@ -13,7 +13,7 @@ expressions.
 4. Evaluation: The accuracy of the KNN algorithm is calculated for each k value using 5 splits cross-validation.
 
 ## Results:
-The experiment results show the average accuracy of the KNN algorithm for face image classification , details are provided in the report 
+The experiment results show the average accuracy of the KNN algorithm for face image classification ,further exact details are provided in the report 
 
 ## Conclusion:
 In conclusion, the experiment demonstrates the implementation of the KNN algorithm for face image classification using PCA for feature extraction.Using PCA significantly improves the computational time and also accuracy of the model when using mahalanobis distance as the distance measure.Further the provided code in the Jupyter notebook can serve as a reference for future work in face recognition research.
