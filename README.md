@@ -10,7 +10,7 @@ Each person is under 13 different poses, 43 different illumination conditions, a
 expressions.
 2. Preprocessing: The face images are preprocessed to extract relevant features using Principal Component Analysis (PCA) technique.
 3. Implementation: The KNN algorithm is implemented using Python, and different k values ranging from 1 to 10 are tested.
-4. Evaluation: The accuracy of the KNN algorithm is calculated for each k value using cross-validation. The average accuracy is calculated based on the results.
+4. Evaluation: The accuracy of the KNN algorithm is calculated for each k value using 5 splits cross-validation.
 
 ## Results:
 The experiment results show the average accuracy of the KNN algorithm for face image classification , details are provided in the report 
